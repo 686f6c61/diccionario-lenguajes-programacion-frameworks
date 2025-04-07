@@ -1,0 +1,24 @@
++------------------------------------------------------------------+
+|                                                                  |
+|      Diccionario de lenguajes de programación y frameworks       |
+|                                                                  |
+|  Busca y valida si una tecnología está en nuestro diccionario    |
+|                                                                  |
+|  +----------------------------------+  +---------+               |
+|  | Tecnología o framework     ✓     |  | Validar |               |
+|  +----------------------------------+  +---------+               |
+|                                                                  |
+|  +----------------------------------------------------------+    |
+|  | ✓ ¡La tecnología está registrada en nuestro diccionario! |    |
+|  |                                          [Válida]        |    |
+|  +----------------------------------------------------------+    |
+|                                                                  |
+|  +----------------------------------------------------------+    |
+|  | Tu stack tecnológico                       [Limpiar]     |    |
+|  |                                                          |    |
+|  | [React] [Node.js] [TypeScript] [Express] [MongoDB]       |    |
+|  +----------------------------------------------------------+    |
+|                                                                  |
+|  Diccionario de tecnologías y frameworks 2025 - Modifica y...    |
+|                                                                  |
++------------------------------------------------------------------+ 

@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Las variables de entorno ya están cargadas automáticamente por Create React App
+// Las variables deben comenzar con REACT_APP_ para ser reconocidas
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
